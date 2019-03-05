@@ -1,0 +1,23 @@
+.main-body{
+    padding: 20px;
+    width: 800px
+}
+.main-body h4 {
+    text-align: center;
+}
+#eng-text {
+    height: 30px;
+    margin-bottom: 20px;
+}
+#pig-latin-text {
+    height: 100px;
+}
+#eng-text, #pig-latin-text {
+    width: 800px;
+    padding: 5px;
+}
+
+.controls {
+    display: inline-block;
+    padding: 0 50px 20px 0;
+}
